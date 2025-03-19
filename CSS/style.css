@@ -4,12 +4,12 @@ margin: 0;
 font-family: "Roboto", sans-serif;
 }
 .bg{
-    background-image: url('../Img/Img1.png');
+    background-image: url('./Img1.png');
     height: 700px;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-}
+}  
 .cd1{
     justify-items: center;
     position:relative;
